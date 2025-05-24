@@ -1,0 +1,11 @@
+@model List<plataformacomentarios.Models.External.Post>
+
+<h2>Noticias</h2>
+
+@foreach (var post in Model)
+{
+    <div class="card my-2 p-3">
+        <h4>@post.title</h4>
+        <a href="@Url.Action("Detalle", "Noticias", new { id = post.id })" class="btn btn-primary">Ver más</a>
+    </div>
+}
