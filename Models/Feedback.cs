@@ -11,6 +11,6 @@ namespace plataformacomentarios.Models
         [Required]
         public string Sentimiento { get; set; } // "like" o "dislike"
 
-        public DateTime Fecha { get; set; } = DateTime.Now;
+        public DateTime Fecha { get; set; } = DateTime.UtcNow;
     }
 }
