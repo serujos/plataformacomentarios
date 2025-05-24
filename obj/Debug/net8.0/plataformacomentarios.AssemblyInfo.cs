@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("plataformacomentarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e15707a736ef3cfea6b57a5dbcca6220bc2c5cc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b08bf5b4abd9ff1e073dc7ae485c310cb5986cba")]
 [assembly: System.Reflection.AssemblyProductAttribute("plataformacomentarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("plataformacomentarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
